@@ -29,3 +29,19 @@ if (num2 > num1) max = num2;
 if (num3 > num2) max = num3;
 
 Console.WriteLine("Максимальное число: " + max); */
+
+
+// Задача 6: Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
+
+/* Console.Write("Введите число: ");
+int num = Convert.ToInt32(Console.ReadLine());
+
+if (num%2 == 0)
+{
+Console.WriteLine("Введенное число четное");
+}
+else
+{
+Console.WriteLine("Введенное число нечетное");
+}
+*/
